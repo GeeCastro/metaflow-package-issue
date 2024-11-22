@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "metaflow-package-issue"
+version = "0.1.0"
+description = ""
+authors = ["Gee Castro <gee.castro@dendra.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+metaflow = "^2.12.30"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
