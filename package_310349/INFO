@@ -1,0 +1,1 @@
+{"platform": "Darwin", "username": "gee", "production_token": null, "runtime": "dev", "app": null, "environment_type": "local", "use_r": false, "python_version": "3.10.14 (main, Aug 12 2024, 13:09:43) [Clang 15.0.0 (clang-1500.3.9.4)]", "python_version_code": "3.10.14", "metaflow_version": "2.12.30", "script": "flow.py", "ext_info": [{}, {}]}
